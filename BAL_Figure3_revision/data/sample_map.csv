@@ -1,0 +1,31 @@
+mouse_id,matrix_column,group,exposure,activity
+139,Grp2,2,Air,Exercise
+132,Grp2.1,2,Air,Exercise
+138,Grp2.2,2,Air,Exercise
+102,Grp4,4,Cigarette smoke,Exercise
+104,Grp4.1,4,Cigarette smoke,Exercise
+131,Grp2.3,2,Air,Exercise
+115,Grp3,3,Cigarette smoke,Rest
+135,Grp2.4,2,Air,Exercise
+124,Grp1,1,Air,Rest
+128,Grp1.1,1,Air,Rest
+105,Grp3.1,3,Cigarette smoke,Rest
+103,Grp3.2,3,Cigarette smoke,Rest
+117,Grp4.2,4,Cigarette smoke,Exercise
+108,Grp4.3,4,Cigarette smoke,Exercise
+134,Grp1.2,1,Air,Rest
+137,Grp1.3,1,Air,Rest
+109,Grp3.3,3,Cigarette smoke,Rest
+126,Grp1.4,1,Air,Rest
+107,Grp4.4,4,Cigarette smoke,Exercise
+116,Grp3.4,3,Cigarette smoke,Rest
+118,Grp3.5,3,Cigarette smoke,Rest
+129,Grp2.5,2,Air,Exercise
+133,Grp2.6,2,Air,Exercise
+120,Grp4.5,4,Cigarette smoke,Exercise
+119,Grp4.6,4,Cigarette smoke,Exercise
+106,Grp3.6,3,Cigarette smoke,Rest
+114,Grp4.7,4,Cigarette smoke,Exercise
+136,Grp2.7,2,Air,Exercise
+123,Grp2.8,2,Air,Exercise
+122,Grp1.5,1,Air,Rest
