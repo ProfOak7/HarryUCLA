@@ -1,0 +1,5 @@
+panel,comparison,tested,volcano_higher,volcano_lower,pi_selected,BH_q_below_0.05,labels
+A,Air + Ex vs. Air + Rest,1116,11,12,38,0,8
+B,CS + Rest vs. Air + Rest,1116,124,127,267,118,8
+C,CS + Ex vs. CS + Rest,1116,10,6,11,0,8
+D,CS + Ex vs. Air + Ex,1116,97,78,195,184,8
