@@ -1,0 +1,3 @@
+# Reproducible supplemental proteomic results
+
+Run `python build_protein_supplement.py` from this folder (Python 3, NumPy and SciPy required). The script recreates all 12 comparison CSVs and a summary, validates the 10 archived hit lists and 4 full Figure 3 tables. The separately supplied Excel workbook contains the same statistical results plus explanatory notes. No protein-level imputation is performed. BALF pooled counts are reconstructed, not checked against archived pooled accession lists. Protein names are archived labels only; accession-only records are intentional. Both absolute pi-score thresholds (>1.0 and >1.3), nominal volcano criteria and reference-only multiple testing corrections are included. See workbook Read me for details.
